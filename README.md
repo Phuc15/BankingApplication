@@ -40,13 +40,13 @@ To-do list:
 * Customer Login
 > username: phuch
 > password: phucsonmy
-![Login](screenshots/Login.PNG)
+![Login](Project1-PhucHuynh/screenshots/Login.PNG)
 
 * Customer Register
-![Register](screenshots/Customer_register.PNG)
+![Register](Project1-PhucHuynh/screenshots/Customer_register.PNG)
 
 * Customer UI
-![CustomerUI](screenshots/CustomerUI_Functions.PNG)
+![CustomerUI](Project1-PhucHuynh/screenshots/CustomerUI_Functions.PNG)
 
 * Employee Login
 > username: phuch
@@ -54,9 +54,7 @@ To-do list:
 ![Login](screenshots/employeelogin.PNG)
 
 * Employee UI
-![CustomerUI](screenshots/employeeUI.PNG)
-
-
+![CustomerUI](Project1-PhucHuynh/screenshots/employeeUI.PNG)
 
 
 ## License
